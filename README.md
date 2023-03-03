@@ -1,13 +1,13 @@
 ### Hi there, I'm Fiel Mangginimba! 👋
 
 - 🔭 I’m a College Student at [Bukidnon State University](https://buksu.edu.ph/).
-- 🌱 I’m currently learning more about [Programming](https://www.computerscience.org/resources/computer-programming-languages/).
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC4C4gz4RrYZLuDQdOzNxk_w).
+- 🌱 I’m currently learning more about different [Programming](https://www.computerscience.org/resources/computer-programming-languages/) languages.
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC4C4gz4RrYZLuDQdOzNxk_w) and Full Stack Developer.
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Coding Tutorials or any tech-related stuff.
 - 📫 How to reach me: [Instagram/@fielmangginimba](https://www.instagram.com/fielmangginimba), [Youtube/@fielmangginimba](https://www.youtube.com/channel/UC4C4gz4RrYZLuDQdOzNxk_w), etc.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to [songs](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/) every day.
+- ⚡ Fun fact: I spend almost 12 hours listening to [songs](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/) every day and love to code.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
