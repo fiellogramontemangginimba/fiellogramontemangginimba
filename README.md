@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Fiel Mangginimba! 👋
 
-- 🔭 I’m a College Student of [Bukidnon State University](https://buksu.edu.ph/) and taking up a Bachelor of science in Information Technology.
+- 🔭 I’m a College Student of [Bukidnon State University](https://buksu.edu.ph/) and taking up a Bachelor of Science in Information Technology.
 - 🌱 I’m currently learning more about different [Programming](https://www.computerscience.org/resources/computer-programming-languages/) languages.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC4C4gz4RrYZLuDQdOzNxk_w) and Full Stack Developer.
 - 🤔 I’m looking for help with VelocityX documentation.
