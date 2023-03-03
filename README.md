@@ -58,5 +58,14 @@
 ### Example of Work :
 <img src ="https://user-images.githubusercontent.com/67497228/170875693-ddaae788-f1c2-4b30-bfa2-bd97755a4805.gif"  />
 
+### 📺 This is where I watch a Latest YouTube Videos
 
+<!-- BEGIN YOUTUBE-CARDS -->
+[![The Making of Linux: The World's First Open-Source Operating System](https://ytcards.demolab.com/?id=E0Q9KnYSVLc&title=The+Making+of+Linux%3A+The+World%27s+First+Open-Source+Operating+System&lang=en&timestamp=1677070808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "The Making of Linux: The World's First Open-Source Operating System")](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
+[![If you use ChatGPT to CHEAT, do this ONE THING!](https://ytcards.demolab.com/?id=Xffgj-RjOXw&title=If+you+use+ChatGPT+to+CHEAT%2C+do+this+ONE+THING%21&lang=en&timestamp=1676556019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=54 "If you use ChatGPT to CHEAT, do this ONE THING!")](https://www.youtube.com/watch?v=Xffgj-RjOXw)
+[![The ONLY Way to Get BETTER at CODING](https://ytcards.demolab.com/?id=Xj6lUopD8fA&title=The+ONLY+Way+to+Get+BETTER+at+CODING&lang=en&timestamp=1676302213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=36 "The ONLY Way to Get BETTER at CODING")](https://www.youtube.com/watch?v=Xj6lUopD8fA)
+[![Why Everyone's Obsessed with ChatGPT](https://ytcards.demolab.com/?id=PvWk3KzakBU&title=Why+Everyone%27s+Obsessed+with+ChatGPT&lang=en&timestamp=1676056500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=516 "Why Everyone's Obsessed with ChatGPT")](https://www.youtube.com/watch?v=PvWk3KzakBU)
+[![Alan Turing "On Computable Numbers, with an Application to the Entscheidungsproblem" 1936 Paper](https://ytcards.demolab.com/?id=2ioj41cvKPY&title=Alan+Turing+%22On+Computable+Numbers%2C+with+an+Application+to+the+Entscheidungsproblem%22+1936+Paper&lang=en&timestamp=1675872001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "Alan Turing \"On Computable Numbers, with an Application to the Entscheidungsproblem\" 1936 Paper")](https://www.youtube.com/watch?v=2ioj41cvKPY)
+[![THIS 1936 Paper Theorized the FIRST Computer EVER, by Alan Turing](https://ytcards.demolab.com/?id=56HGIcFkej0&title=THIS+1936+Paper+Theorized+the+FIRST+Computer+EVER%2C+by+Alan+Turing&lang=en&timestamp=1675779300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=569 "THIS 1936 Paper Theorized the FIRST Computer EVER, by Alan Turing")](https://www.youtube.com/watch?v=56HGIcFkej0)
+<!-- END YOUTUBE-CARDS -->
  
